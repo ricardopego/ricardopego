@@ -27,7 +27,7 @@
 
 ### Main skills:
 <div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/ricardopego/ricardopego/assets/157635397/f3de666f-9fdd-4337-a0a2-fbe611a06df6">
+<img align="left" height="84" width="84" src="https://github.com/ricardopego/ricardopego/assets/157635397/e063b426-1b7c-45db-ad00-cbfaa4db90e7">
 
 <img align="left" height="80" width="80" src="https://github.com/ricardopego/ricardopego/assets/157635397/fa990644-f97e-4494-9d9f-3ea6ef96b0c9">
 
