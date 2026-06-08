@@ -1,10 +1,10 @@
 # Hi 👋🏽, I'm Ricardo!
 
-🚀 **Android Software Engineer | Kotlin & Jetpack Compose specialist** 🇧🇷 Brazil
+🚀 **Backend Software Engineer | Java & Spring Boot Specialist** 🇧🇷 Brazil
 
-I architect **high-performance native mobile solutions** with a deep focus on **Android internals, scalable architectures, and seamless user experiences**. 
+I architect **robust, scalable, and high-performance backend solutions** with a deep focus on **microservices, data integrity, and clean server-side code**. 
 
-Coming from a **Mechatronics Engineering background**, I approach software with a logic-driven mindset, prioritizing **performance optimization, multiplatform strategies (KMP), and cutting-edge technologies like AR/VR and Edge AI**.
+Driven by a rigorous logic-driven mindset, I prioritize **clean architecture, database optimization, and cloud-native strategies** to build resilient systems that power enterprise-level applications.
 
 ---
 
@@ -23,33 +23,29 @@ Coming from a **Mechatronics Engineering background**, I approach software with 
 
 ## 🧠 What I do
 
-- 📱 **Native Android Engineering** – Expert in Kotlin & Modern Android Tooling.
-- 🏗️ **Software Architecture** – Clean Architecture, SOLID, and MVI/MVVM patterns.
-- 🛠️ **Multiplatform Strategy** – Sharing business logic with **Kotlin Multiplatform (KMP)**.
-- ⚡ **Reactive Programming** – Mastering Coroutines and Kotlin Flow for high-concurrency.
-- 🕶️ **Extended Reality (XR)** – Building immersive experiences with **ARCore** and **Android XR**.
-- 📡 **Offline-First & Local Data** – Robust persistence with Room and DataStore.
-- 🧪 **Automated Testing** – Ensuring reliability with JUnit, Espresso, and MockK.
+- ⚡ **Enterprise Backend Engineering** – Expert in Java & the Spring Ecosystem (Boot, Data JPA, Security).
+- 🏗️ **Software Architecture** – Clean Architecture, SOLID, and Design Patterns (MVC, Hexagonal).
+- 🗄️ **Data Persistence & SQL** – Robust database design, query optimization, and migration tools (SQL Server, PostgreSQL, Hibernate).
+- 🔐 **Security & Authentication** – Implementing secure APIs with OAuth2, JWT, and stateless authentication.
+- 🐳 **Containerization & Devops** – Packaging applications with Docker and designing automated CI/CD workflows.
+- 🧪 **Automated Testing** – Ensuring codebase resilience with JUnit 5, Mockito, and integration tests.
+- ☁️ **Next-Gen Tech & Cloud** – Deepening knowledge in AWS, distributed messaging (Kafka/RabbitMQ), and cloud-native frameworks like Quarkus.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Android Core & UI
+### Backend Core & Frameworks
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white) ![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![KMP](https://img.shields.io/badge/KMP-Kotlin_Multiplatform-orange?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-### Architecture & Tools
+### Databases & Infrastructure
 
-![Coroutines](https://img.shields.io/badge/Coroutines-Flow-blue?style=for-the-badge) ![Hilt](https://img.shields.io/badge/DI-Hilt/Koin-yellow?style=for-the-badge) ![Retrofit](https://img.shields.io/badge/Networking-Retrofit/Ktor-red?style=for-the-badge) ![Room](https://img.shields.io/badge/DB-Room-green?style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### AI & Emerging Tech
+### Future-Proofing & Cloud (Current Studies)
 
-![Google AI](https://img.shields.io/badge/Google_AI-Gemini_Nano-blue?style=for-the-badge&logo=google&logoColor=white) ![ARCore](https://img.shields.io/badge/AR-ARCore-lightgrey?style=for-the-badge) ![TensorFlow](https://img.shields.io/badge/ML-TensorFlow_Lite-orange?style=for-the-badge&logo=tensorflow)
-
-### Tools & Workspace
-
-![MacBook M4](https://img.shields.io/badge/MacBook_M4-Elite_Hardware-000000?style=for-the-badge&logo=apple&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 ---
 
@@ -64,8 +60,8 @@ Coming from a **Mechatronics Engineering background**, I approach software with 
 
 ## 🚀 Philosophy
 
-> _"As an Engineer, I don't just write code; I design systems. My mission is to bridge the gap between complex hardware capabilities and intuitive software, creating mobile experiences that are as **robust in their architecture** as they are **fluid in their execution**."_
+> _"As a Backend Engineer, I don't just write code; I design systems. My mission is to build robust, secure, and highly available architectures that run seamlessly behind the scenes, ensuring data integrity and extreme performance where it matters most."_
 
 ---
 
-🤝 Open to high-impact projects, architectural consultations, and technical challenges.
+🤝 Open to high-impact projects, backend challenges, and architecture-driven engineering roles.
