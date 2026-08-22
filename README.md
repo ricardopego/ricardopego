@@ -1,6 +1,6 @@
 # Hi 👋🏽, I'm Ricardo!
 
-🚀 **Backend Software Engineer | Java & Spring Boot Specialist** 🇧🇷 Brazil
+🚀 **Backend Software Engineer | Java & Spring Boot** 🇧🇷 Brazil
 
 I architect **robust, scalable, and high-performance backend solutions** with a deep focus on **microservices, data integrity, and clean server-side code**. 
 
