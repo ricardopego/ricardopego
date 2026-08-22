@@ -11,7 +11,7 @@ Driven by a rigorous logic-driven mindset, I prioritize **clean architecture, da
 ## 🌐 Where to find me
 
 <p align="left">
-  <a>
+  <a href="https://linkedin.com/in/ricardorpego">
     <img src="https://img.shields.io/badge/LinkedIn-Ricardo_Pereira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/ricardopego">
